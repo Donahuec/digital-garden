@@ -1,7 +1,11 @@
 ---
+status: seed
+epi: personal
 title: A Reflection of Purpose
+created: 2024-02-27
+modified: 2024-02-28
 ---
-# A Reflection of Purpose
+
 
 Thinking about concepts like ikigai and self authorship. What do I really want out of life? What drives me? Do I have a purpose? What do I think it means to have purpose?
 
