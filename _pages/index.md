@@ -7,7 +7,7 @@ permalink: /
 
 # Welcome! 🌱
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
+<p style="padding: 3em 1em; background: #3B4252; border-radius: 4px;">
   Take a look at <span style="font-weight: bold">[[Atlas]]</span> to get started on your exploration.
 </p>
 
